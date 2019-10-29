@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Marilyn Monroe",
+        "occupation": "American actress, singer, model",
+        "years": "1926 – 1962"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "occupation": "CEO",
+        "years": "2002-"
+    },
+    {
+        "name": "Abraham Lincoln ",
+        "occupation": "US President during American civil war",
+        "years": "1809 – 1865"
+    },
+    {
+        "name": "Nelson Mandela ",
+        "occupation": "South African President anti-apartheid campaigner",
+        "years": "1918 – 2013"
+    },
+    {
+        "name": "John F. Kennedy",
+        "occupation": "US President 1961 – 1963",
+        "years": "1917 – 1963"
+    },
+    {
+        "name": "Elvis Presley",
+        "occupation": "American musician",
+        "years": "1935 – 1977"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "occupation": "Italian, painter, scientist, polymath",
+        "years": "1452 – 1519"
+    },
+    {
+        "name": "Thomas Edison",
+        "occupation": "American inventor",
+        "years": "1847 – 1931"
+    },
+    {
+        "name": "Neil Armstrong",
+        "occupation": "US astronaut",
+        "years": "1930 – 2012"
+    },
+    {
+        "name": "Barack Obama",
+        "occupation": "US President 2008 – 2016",
+        "years": "1961 – "
+    },
+    {
+        "name": "Angelina Jolie ",
+        "occupation": "Actress, director, humanitarian",
+        "years": "1975 –"
+    },
+    {
+        "name": "Henry Ford ",
+        "occupation": "US Industrialist",
+        "years": "1863 – 1947"
+    },
+    {
+        "name": "Michael Jordan",
+        "occupation": "US Basketball star",
+        "years": "1963 – "
+    }
+]
